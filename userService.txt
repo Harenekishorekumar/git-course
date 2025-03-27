@@ -1,1 +1,2 @@
 get a user input!
+process the user data
