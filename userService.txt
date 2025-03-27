@@ -1,2 +1,4 @@
 get a user input!
 process the user data
+
+create an avatar for each user
